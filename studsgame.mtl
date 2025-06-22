@@ -1,0 +1,28 @@
+newmtl Generatedplatform961Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+newmtl Spawnlocation1Mtl
+Material Color
+Ka 0.201096 0.0242229 0.201096
+Kd 0.201096 0.0242229 0.201096
+Ks 0.00867472 0.00104491 0.00867472 
+
+d 1
+
+Ns 0
+
+map_Ka Spawnlocation1_diff.png
+map_Kd Spawnlocation1_diff.png
+map_d Spawnlocation1_diff.png
+
+map_Bump Spawnlocation1_nmap.png
+
+map_Ns Spawnlocation1_spec.png
+
